@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>View Profile</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-image: url(assets/image/image1.jpg);
+            background-size: cover;
+            position: relative;
+            overflow: hidden;
+            color: #fff;
+            margin: 0;
+        }
+        .profile-container {
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 10px;
+        }
+        .edit-button {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="profile-container">
+        <h2>Your Profile</h2>
+        <div id="profile-details">
+            <!-- Profile details will be loaded here -->
+        </div>
+        <div class="button-group">
+            <button class="btn btn-primary edit-button" id="edit-profile">Edit Profile</button>
+            <button class="btn btn-secondary edit-button" id="home-button">Home</button>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="js/view_profile.js"></script>
+</body>
+</html>
