@@ -5,7 +5,7 @@ $(document).ready(function() {
         return;
     }
 
-    // Load existing profile data when the page is loaded
+
     $.ajax({
         url: 'http://localhost/Guvi_intership/php/profile.php',
         type: 'GET',
@@ -28,7 +28,7 @@ $(document).ready(function() {
         }
     });
 
-    // Handle profile update form submission
+
     $('#profile-form').on('submit', function(event) {
         event.preventDefault();
 
