@@ -61,11 +61,11 @@ A comprehensive user management system built using HTML, CSS, JavaScript (jQuery
 
 ## Screenshots
 
-![Index Page](assets/screenshots/home.png)
-![Register Page](assets/screenshots/register.png)
-![Login Page](assets/screenshots/login.png)
-![Profile View Page](assets/screenshots/view_profile.png)
-![Profile Update Page](assets/screenshots/update_profile.png)
+![Index Page](screenshots/home.png)
+![Register Page](screenshots/register.png)
+![Login Page](screenshots/login.png)
+![Profile View Page](screenshots/view_profile.png)
+![Profile Update Page](screenshots/update_profile.png)
 
 
 
