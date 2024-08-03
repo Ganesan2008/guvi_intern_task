@@ -72,7 +72,6 @@ A comprehensive user management system built using HTML, CSS, JavaScript (jQuery
 
 
 ## Acknowledgements
-
 - [Bootstrap]for the CSS framework.
 - [jQuery] for simplifying JavaScript.
 - [MongoDB & SQL] for the  database.
